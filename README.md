@@ -1,0 +1,2 @@
+# Test-Repository
+これはGithubとTortoiseGitとの動作確認を行うためのリポジトリです。
